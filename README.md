@@ -26,6 +26,7 @@ desenvolvedores envolvidos.
 • X5
 (Num_Integracoes_Externas): Quantidade de APIs/sistemas legados
 integrados.
+
 Etapa 1: Análise Exploratória e Matriz de Correlação
 1. Carregar a base de dados e exibir estatísticas descritivas (média, desvio
 padrão, percentis).
